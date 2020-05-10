@@ -1,0 +1,15 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Jacob Shkrob's Blog"
+theme = "hyde"
+
+[Menus]
+  main = [
+      {Name = "About", URL = "/about"},
+      {Name = "Github", URL = "https://github.com/jshkrob"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/jacob-shkrob-78a192167/"}
+  ]
+
+[params]
+  description = "A site for those with a spirit of inquiry and a curious mind"
+  themeColor = "theme-base-09"
