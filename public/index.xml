@@ -18,7 +18,7 @@
       
       <guid>/posts/a/</guid>
       <description>CONTENT This is a.md file, it&amp;rsquo;s in the root directory
- I like lists Lists are fun as hell How about some bold text and some italics bois   bullets are better  even more bullets mwahaha   I like bullets     some weird code $$x = 5y + 5z$$
+ I like lists Lists are fun as hell How about some bold text and some italics bois   bullets are better  even more bullets mwahaha   I like bullets     some weird code$$x = 5y + 5z$$
 $$ \sum_{x=0}^{\infty} \phi(x)\frac{e^{-\theta}\theta^x}{x!} $$</description>
     </item>
     
